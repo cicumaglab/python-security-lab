@@ -1,5 +1,5 @@
 def main():
-    print("Hello from the Python Security Lab!")
+    print("Welcome to the Python Security Lab!")
 
 
 if __name__ == "__main__":
